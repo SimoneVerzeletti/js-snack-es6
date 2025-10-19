@@ -51,3 +51,15 @@
 // }
 
 // console.log(falliSubitiNomeSquadra);
+
+// //SNACK 3
+// const numeri = [34, 87, 15, 62, 5, 93, 48, 29, 71, 10];
+// //utilizzo la funzione
+// const nuovoArray = selezionaIntervallo(numeri, 2, 8);
+// console.log(nuovoArray);
+
+//SNACK 4
+const array1 = [1, 2, 3, 4, 5];
+const array2 = ["a", "b", "c"];
+
+console.log(fondiArray(array1, array2));
